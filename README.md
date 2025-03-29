@@ -1,4 +1,8 @@
-# Ex-01-Linux-Commands
+# Ex-2A-Linux-Commands
+
+NAME : R MONISH
+
+REG NO : 212223220061
 
 
 ## Aim:
